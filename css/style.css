@@ -276,7 +276,13 @@ ion-icon:hover {
         /* bottom: -97px; */
     }
     .sponsor {
-        top: 495px;
+        top: 718px;
+    }
+    .sponsor img {
+        width: 59px;
+    }
+    .sponsor p {
+    font-size: 5px;
     }
     .navbar {
         margin-bottom: 0;
