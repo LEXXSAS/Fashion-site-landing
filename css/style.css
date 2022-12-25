@@ -283,7 +283,9 @@ ion-icon:hover {
         height: 60px;
     }
     .media ul {
-    display: none;
-}
-
+    opacity: 0;
+    }
+    .media ul li {
+    opacity: 0;
+    }
 }
