@@ -282,5 +282,8 @@ ion-icon:hover {
         margin-bottom: 0;
         height: 60px;
     }
+    .media ul {
+    display: none;
+}
 
 }
